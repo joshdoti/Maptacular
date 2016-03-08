@@ -1,7 +1,7 @@
 A recent project for turning CVS data into map visulizations.
 
 EG. City of Edmonton House Assesment data. 
-![alt tag](http://i.imgur.com/bdyyiiU.jpg?1)
+![Maptacular Edmonton](http://i.imgur.com/bdyyiiU.jpg)
 
 
 Example Test Data
