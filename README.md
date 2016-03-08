@@ -1,8 +1,15 @@
-A recent project for turning CVS data into map visulizations.
+#Maptacular
 
-EG. City of Edmonton House Assesment data. 
-![Maptacular Edmonton](http://i.imgur.com/bdyyiiU.jpg)
+##A recent project for turning CVS data into map visulizations.
+####Author: Josh Dotinga  
+  
+    
+   
+    
+EG. City of Edmonton House Assesment data.       
+![Edmonton assement data in app](http://i.imgur.com/bdyyiiU.jpg)
 
+Above image was made using data below. 
 
 Example Test Data
 
