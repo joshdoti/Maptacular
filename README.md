@@ -7,7 +7,9 @@
    
     
 EG. City of Edmonton House Assessment  data.       
-![Edmonton Assessment data in app](http://i.imgur.com/bdyyiiU.jpg)
+![Edmonton Assessment data in app](http://i.imgur.com/bdyyiiU.jpg)   
+Map was created using the Maptacular application and city published property value data. (Red being most expensive, green being least)   
+Data is based on averages across areas and data is mapped to a flat plane from latitude and longitude coordinates.    
 
 Above image was made using data below. 
 
