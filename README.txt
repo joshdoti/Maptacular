@@ -1,3 +1,9 @@
+A recent project for turning CVS data into map visulizations.
+
+EG. City of Edmonton House Assesment data. 
+![alt tag](http://i.imgur.com/bdyyiiU.jpg?1)
+
+
 Example Test Data
 
 https://data.edmonton.ca/City-Administration/Property-Assessment-Data/q7d6-ambg
