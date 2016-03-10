@@ -85,7 +85,7 @@ public class MainController {
         gui.widthSliderListener(new widthSliderListener());
         gui.deviationsSliderListener(new deviationsSliderListener());
         
-        scale = new LoadColourScale("scale2.gif");
+        scale = new LoadColourScale("/images/scale2.gif");
         
     }
 
@@ -220,7 +220,7 @@ public class MainController {
             map = new GetMap(reader.getTopLat(), reader.getRightLong(), reader.getBotLat(), reader.getLeftLong(), gui.getZoomSlider());
             map.doWork();
             gui.setProgress(35);
-            System.out.println(map.urlString());
+            //System.out.println(map.urlString());
 
             //Blurs the data using given blur value
             BlurArray blurredArray = new BlurArray(gui.getBlurSlider(), reader.getArrayWidth(), reader.getArrayHeight(), reader.getDataArray());

@@ -47,7 +47,7 @@ public class LoadColourScale {
     
     LoadColourScale(String imageLocation){
         try {
-            image = ImageIO.read(new File(imageLocation));
+            image = ImageIO.read(getClass().getResource(imageLocation));
         }catch (IOException e) {
         }
         WIDTHOFIMAGE = image.getWidth();

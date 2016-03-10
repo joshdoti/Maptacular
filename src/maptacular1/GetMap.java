@@ -171,12 +171,3 @@ public final class GetMap{
     }
 
 }
-
-/*
-https://api.mapbox.com/v4/mapbox.streets/pin-l-park+482(-113.6126,53.3960),pin-l-park+482(-113.3699,53.7151),pin-l-park+482(-113.7133,53.5606),pin-l-park+482(-113.2784,53.6687)/-113.4958763,53.55560495,10/1280x1280.png?access_token=pk.eyJ1Ijoiam9zaGRvdGkiLCJhIjoiY2lnanN4aWF4MDA3NXVha3JkcDE4NGJpYiJ9.gMb5i5FTphQPYmZ2YNvPbg}
-
-hl  pin-l-park+482(53.39606,-113.612654),pin-l-park+482(53.71514,-113.369977),pin-l-park+482(53.56065,-113.713317),pin-l-park+482(53.6687,-113.278434)
-ll  pin-l-park+482(53.71514,-113.369977)
-llo pin-l-park+482(53.56065,-113.713317)
-hlo pin-l-park+482(53.66879,-113.278434)
-*/
